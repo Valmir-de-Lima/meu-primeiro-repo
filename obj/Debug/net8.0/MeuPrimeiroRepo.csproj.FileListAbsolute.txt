@@ -1,0 +1,15 @@
+D:\dotnet\12_github\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.exe
+D:\dotnet\12_github\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.deps.json
+D:\dotnet\12_github\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.runtimeconfig.json
+D:\dotnet\12_github\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.dll
+D:\dotnet\12_github\MeuPrimeiroRepo\bin\Debug\net8.0\MeuPrimeiroRepo.pdb
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.AssemblyInfo.cs
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.sourcelink.json
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.dll
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\refint\MeuPrimeiroRepo.dll
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.pdb
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\MeuPrimeiroRepo.genruntimeconfig.cache
+D:\dotnet\12_github\MeuPrimeiroRepo\obj\Debug\net8.0\ref\MeuPrimeiroRepo.dll
